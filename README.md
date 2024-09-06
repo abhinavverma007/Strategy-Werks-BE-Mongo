@@ -1,1 +1,0 @@
-# Strategy-Werks-BE-Mongo
